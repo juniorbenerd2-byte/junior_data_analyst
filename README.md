@@ -1,1 +1,1 @@
-menggunakan Blogger
+Junior Data Analyst
