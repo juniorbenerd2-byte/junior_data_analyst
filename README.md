@@ -8,7 +8,7 @@ Melalui program **Simulasi Data Analyst**, saya mendapatkan pengalaman untuk mem
 
 Seorang Data Analyst memiliki peran dalam mengolah data mentah menjadi **insight yang bernilai bagi bisnis**. Data digunakan untuk menemukan pola, mengidentifikasi masalah, memahami tren, serta memberikan rekomendasi berbasis data yang dapat membantu perusahaan dalam mengambil keputusan secara lebih tepat.
 
-Program ini dirancang untuk menjembatani kesenjangan antara dunia pendidikan dan kebutuhan industri, khususnya dalam bidang **Data Analyst**. Dalam pelaksanaannya, peserta tidak diposisikan sebagai siswa kursus, melainkan sebagai **Junior Data Analyst** yang mengikuti proses kerja dengan standar profesional.
+Program ini dirancang untuk menghubungkan kesenjangan antara dunia pendidikan dan kebutuhan industri, khususnya dalam bidang **Data Analyst**. Dalam pelaksanaannya, peserta tidak diposisikan sebagai siswa kursus/les, melainkan sebagai **Junior Data Analyst**
 
 ---
 
