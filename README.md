@@ -23,7 +23,7 @@ Melalui program ini, peserta diharapkan mampu:
 
 ---
 
-# Kompetensi yang Dikembangkan
+# 🛠 Kompetensi yang Dikembangkan 
 
 ## A. Kompetensi Inti (Hard Skill)
 
@@ -130,16 +130,23 @@ Meliputi:
 
 ---
 
-🗺 Learning Timeline
-Timeline Pembelajaran pada saat simulasi
+# 🗺 Learning Timeline
+## Timeline Pembelajaran pada saat simulasi
 
  Week 1 — Industry Orientation & Tools Setup
+ 
  Week 2 — Data Collection & Understanding
+ 
  Week 3 — Data Cleaning & Preparation
+ 
  Week 4 — Exploratory Data Analysis
+ 
  Week 5 — Problem Solving & Business Questions
+ 
  Week 6 — Reporting & Data Storytelling
+ 
  Week 7 — Final Project & Portfolio Development
+ 
  Week 8 — Final Presentation & Evaluation
 
 # Outcome Program
