@@ -1,1 +1,1 @@
-Junior Data Analyst
+DATA ANALYST 📊
