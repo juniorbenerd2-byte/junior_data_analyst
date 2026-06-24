@@ -1,99 +1,141 @@
- # **Edusoft Center & Simulasi Data Analyst** #
-                                                            
-Saya adalah **Siswa dari SMKN 6 Surakarta** dan saat ini saya sedang melaksanakan PKL selama 3x2 bulan di **PT Edusoft Center** 
+# Edusoft Center — Simulasi Data Analyst
 
-Fungsi data analyst adalah menerjemahkan data mentah menjadi wawasan (insight) bisnis yang konkret. 
+## Tentang Program
 
-Mereka menggunakan data untuk mengidentifikasi tren, memecahkan masalah operasional, dan memberikan rekomendasi berbasis data agar perusahaan dapat mengambil keputusan strategis dengan lebih akurat.
+Saya merupakan siswa **SMKN 6 Surakarta** yang saat ini sedang melaksanakan kegiatan **PKL (Praktik Kerja Lapangan)** selama **3 × 2 bulan** di **PT Edusoft Center**.
 
-Program Simulasi ini dibuat untuk menghubungkan kesenjangan antara dunia pendidikan dan kebutuhan industri, Khususnya pada bidang **Data Analyst** namun disini kita tidak diperlakukan seperti sedang les/kursus, melainkan sebagai **junior profesional**
+Melalui program **Simulasi Data Analyst**, saya mendapatkan pengalaman untuk memahami bagaimana seorang **Data Analyst bekerja dalam lingkungan industri**.
 
-___________________________________________________________________________________________________________________________________________________________________
+Seorang Data Analyst memiliki peran dalam mengolah data mentah menjadi **insight yang bernilai bagi bisnis**. Data digunakan untuk menemukan pola, mengidentifikasi masalah, memahami tren, serta memberikan rekomendasi berbasis data yang dapat membantu perusahaan dalam mengambil keputusan secara lebih tepat.
 
-### Di PT Edusoft kita memliki tujuan untuk bisa menguasai skill skill berikut : ###
-1. Mengolah data secara end-to-end sesuai standar industri
-2. Memecahkan masalah berbasis data
-3. Mengkomunikasikan insight kepada pihak non-teknis
-4. Memiliki portofolio profesional untuk melamar kerja
- 
-### Kompetensi yang Dikembangkan ###
+Program ini dirancang untuk menjembatani kesenjangan antara dunia pendidikan dan kebutuhan industri, khususnya dalam bidang **Data Analyst**. Dalam pelaksanaannya, peserta tidak diposisikan sebagai siswa kursus, melainkan sebagai **Junior Data Analyst** yang mengikuti proses kerja dengan standar profesional.
 
-  **A. Kompetensi Inti (Hard Skill)**
-1. Data Handling & Preparation
+---
 
-   • Mengubah data mentah (Excel/CSV) menjadi dataset siap analisis
+# Tujuan Program
 
-   • Membersihkan data error dan duplikat
+Melalui program ini, peserta diharapkan mampu:
 
-   • Mengelola data sederhana menggunakan SQL
+1. Mengolah data secara **end-to-end** sesuai standar industri.
+2. Menyelesaikan permasalahan menggunakan pendekatan berbasis data.
+3. Mengubah hasil analisis menjadi insight yang mudah dipahami oleh pihak non-teknis.
+4. Membuat portofolio profesional sebagai persiapan memasuki dunia kerja.
 
-2. SQL untuk Analisis
-   
-   • Menulis query untuk menjawab pertanyaan bisnis
-   
-   • JOIN multi-tabel
-   
-   • GROUP BY dan fungsi agregasi
-   
-   • Menyusun laporan data sederhana
+---
 
-3. Exploratory Data Analysis (EDA)
-   
-   • Membaca pola dan tren data
+# Kompetensi yang Dikembangkan
 
-   • Menghitung metrik dasar
+## A. Kompetensi Inti (Hard Skill)
 
-   • Menarik insight awal
+## 1. Data Handling & Preparation
 
-   • Menyusun kesimpulan berbasis data
+Mempelajari proses pengolahan data mulai dari data mentah hingga siap digunakan untuk analisis.
 
-4. Visualisasi & Dashboard
-   
-   • Membuat grafik yang tepat dan informatif
+Materi yang dipelajari:
 
-   • Membangun dashboard sederhana
+* Mengubah data mentah (Excel/CSV) menjadi dataset siap analisis.
+* Membersihkan data yang tidak sesuai, error, maupun duplikasi.
+* Melakukan pengelolaan data menggunakan SQL dasar.
 
-   • Menjelaskan data kepada audiens non-teknis
-   
+---
 
-**B. Kompetensi Industri**
+## 2. SQL untuk Analisis Data
 
-5. Data Thinking & Problem Framing
-   
-   • Memahami konteks masalah
+Menggunakan SQL untuk mengambil dan mengolah informasi dari database.
 
-   • Menentukan pertanyaan data yang relevan
+Materi yang dipelajari:
 
-   • Memilih metrik yang tepat
+* Membuat query untuk menjawab kebutuhan bisnis.
+* Menggunakan JOIN untuk menggabungkan beberapa tabel.
+* Menggunakan GROUP BY dan fungsi agregasi.
+* Membuat laporan berdasarkan hasil pengolahan data.
 
-6. Dokumentasi & Reproducibility
-   
-   • Menulis laporan analisis
-   
-   • Dokumentasi query dan script
-   
-   • Version control menggunakan Git
+---
 
-7. Data Storytelling
+## 3. Exploratory Data Analysis (EDA)
 
-   • Menyampaikan insight secara terstruktur
-   
-   • Membuat slide presentasi profesional
-   
-   • Presentasi berbasis data
+Melakukan eksplorasi data untuk menemukan pola, tren, dan informasi penting.
 
-**C. Kompetensi Profesional**
+Materi yang dipelajari:
 
-8. Etika Kerja & Simulasi Industri
-   
-   • Disiplin waktu dan deadline
+* Membaca pola dan tren dalam data.
+* Menghitung metrik dasar.
+* Menemukan insight awal.
+* Membuat kesimpulan berdasarkan hasil analisis.
 
-   • Review dan feedback rutin
+---
 
-   • Kerja tim
-   
-   • Presentasi berkala
+## 4. Visualisasi Data & Dashboard
 
+Menyajikan data dalam bentuk visual yang mudah dipahami.
 
-   
+Materi yang dipelajari:
 
+* Membuat grafik yang efektif dan informatif.
+* Membuat dashboard sederhana.
+* Menjelaskan hasil analisis kepada audiens non-teknis.
+
+---
+
+# B. Kompetensi Industri
+
+## 5. Data Thinking & Problem Framing
+
+Melatih kemampuan memahami masalah bisnis sebelum melakukan analisis data.
+
+Materi yang dipelajari:
+
+* Memahami konteks permasalahan.
+* Menentukan pertanyaan analisis yang tepat.
+* Memilih indikator atau metrik yang relevan.
+
+---
+
+## 6. Dokumentasi & Reproducibility
+
+Membiasakan proses kerja yang rapi dan dapat digunakan kembali.
+
+Materi yang dipelajari:
+
+* Membuat dokumentasi hasil analisis.
+* Menulis dokumentasi query dan script.
+* Menggunakan version control dengan Git.
+
+---
+
+## 7. Data Storytelling
+
+Mengubah hasil analisis menjadi cerita yang mudah dipahami.
+
+Materi yang dipelajari:
+
+* Menyampaikan insight secara sistematis.
+* Membuat presentasi berbasis data.
+* Menjelaskan rekomendasi berdasarkan hasil analisis.
+
+---
+
+# C. Kompetensi Profesional
+
+## 8. Etika Kerja & Simulasi Industri
+
+Membangun kebiasaan kerja profesional seperti lingkungan industri.
+
+Meliputi:
+
+* Disiplin terhadap waktu dan deadline.
+* Melakukan review serta menerima feedback.
+* Bekerja secara individu maupun dalam tim.
+* Melakukan presentasi hasil pekerjaan secara berkala.
+
+---
+
+# Outcome Program
+
+Setelah mengikuti program ini, peserta diharapkan memiliki kemampuan sebagai **Junior Data Analyst** dengan pengalaman dalam:
+
+* Pengolahan dan analisis data.
+* Pembuatan laporan dan dashboard.
+* Penyelesaian masalah berbasis data.
+* Komunikasi insight secara profesional.
+* Penyusunan portofolio untuk dunia kerja.
