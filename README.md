@@ -130,6 +130,18 @@ Meliputi:
 
 ---
 
+🗺 Learning Timeline
+Timeline Pembelajaran pada saat simulasi
+
+ Week 1 — Industry Orientation & Tools Setup
+ Week 2 — Data Collection & Understanding
+ Week 3 — Data Cleaning & Preparation
+ Week 4 — Exploratory Data Analysis
+ Week 5 — Problem Solving & Business Questions
+ Week 6 — Reporting & Data Storytelling
+ Week 7 — Final Project & Portfolio Development
+ Week 8 — Final Presentation & Evaluation
+
 # Outcome Program
 
 Setelah mengikuti program ini, peserta diharapkan memiliki kemampuan sebagai **Junior Data Analyst** dengan pengalaman dalam:
