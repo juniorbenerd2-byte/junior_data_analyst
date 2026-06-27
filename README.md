@@ -132,14 +132,16 @@ Meliputi:
 
 # 📝 Publikasi & Catatan Pembelajaran
 Sebagai bagian dari proses belajar, saya juga mendokumentasikan beberapa materi dan artikel mengenai dunia data.
-https://artikeldatar.blogspot.com/2026/06/data-analyst.html
 
-https://artikeldatar.blogspot.com/2026/06/mempelajari-peta-belajar-3-data-analyst.html
+Pemahanan tentang Data dan  3 jenis data https://artikeldatar.blogspot.com/2026/06/data-analyst.html
 
-https://artikeldatar.blogspot.com/2026/06/penjelasan-apa-itu-big-data.html
+Peta bekajar 3 Data Analyst, Engginear, Scientist https://artikeldatar.blogspot.com/2026/06/mempelajari-peta-belajar-3-data-analyst.html
+
+Penjelasan apa itu Big Data https://artikeldatar.blogspot.com/2026/06/penjelasan-apa-itu-big-data.html
 
 Artikel tersebut adalah hasil saya ketika melaksanakan PKL di PT Edusoft,artikel ini dapat membantu orang yang baru masuk ke dunia data.
 
+---
 
 # 🗺 Learning Timeline
 ## Timeline Pembelajaran pada saat simulasi
