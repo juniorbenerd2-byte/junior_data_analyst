@@ -139,7 +139,12 @@ Peta bekajar 3 Data Analyst, Engginear, Scientist https://artikeldatar.blogspot.
 
 Penjelasan apa itu Big Data https://artikeldatar.blogspot.com/2026/06/penjelasan-apa-itu-big-data.html
 
+Arsitektur Data Lake: Solusi Pengelolaan Data Terstruktur dan Tidak Terstruktur https://artikeldatar.blogspot.com/2026/06/arsitektur-data-lake-solusi-pengelolaan.html
+
+
 Artikel tersebut adalah hasil saya ketika melaksanakan PKL di PT Edusoft,artikel ini dapat membantu orang yang baru masuk ke dunia data.
+
+
 
 ---
 
